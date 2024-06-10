@@ -1,4 +1,3 @@
-# CDN-DETECTOR
 # ➡️ INSTALLAZIONE ED ESECUZIONE
 🔲 git clone https://github.com/termuxitaly/CDN-DETECTOR
 
